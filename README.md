@@ -88,6 +88,7 @@ The objective was to understand how TCS's financial performance evolved over tim
 | `TCS_Ratios_and_Statements.xlsx` | Five-year financial statements and ratio calculations |
 | `TCS_Financials.xlsx` | Supporting company financial data, ratios, and reference information |
 
+
 ---
 
 ## Tools Used
